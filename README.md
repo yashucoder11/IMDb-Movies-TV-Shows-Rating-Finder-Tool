@@ -1,14 +1,6 @@
 # IMDb-Movies-TV-Shows-Rating-Finder-Tool
 A lightweight Node.js web tool that instantly searches and retrieves movie and TV show ratings directly from IMDb.
 
-Here is a clean, simplified, and easy-to-read version of the README. It keeps all the essential information but removes the unnecessary fluff.
-
----
-
-# 🎬 IMDb Movies & TV Shows Rating Finder
-
-A lightweight Node.js web application that searches IMDb for movies or TV shows and instantly displays their current ratings. Built with Express.js and Puppeteer, featuring a modern, responsive glassmorphism UI.
-
 ## ✨ Features
 - 🔍 **Smart Search:** Automatically optimizes queries (e.g., appending "movie" or "series") for accurate IMDb results.
 - ⭐ **Instant Ratings:** Extracts and displays the official IMDb rating cleanly.
