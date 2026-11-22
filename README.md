@@ -1,6 +1,13 @@
 # IMDb-Movies-TV-Shows-Rating-Finder-Tool
 A lightweight Node.js web tool that instantly searches and retrieves movie and TV show ratings directly from IMDb.
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yashucoder11/IMDb-Movies-TV-Shows-Rating-Finder-Tool/refs/heads/main/output.png" alt="IMDb Movies & TV Shows Ratings Count Output" width="700">
+</p>
+
+
+
 ## ✨ Features
 - 🔍 **Smart Search:** Automatically optimizes queries (e.g., appending "movie" or "series") for accurate IMDb results.
 - ⭐ **Instant Ratings:** Extracts and displays the official IMDb rating cleanly.
