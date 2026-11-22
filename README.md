@@ -19,14 +19,6 @@ A lightweight Node.js web tool that instantly searches and retrieves movie and T
 - **Scraping:** Puppeteer (Headless Chrome)
 - **Frontend:** HTML5, CSS3, Bootstrap 5, Font Awesome
 
-## 🚀 Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/IMDb-Movies-TV-Shows-Rating-Finder-Tool.git
-   cd IMDb-Movies-TV-Shows-Rating-Finder-Tool
-   ```
-
 2. **Install dependencies:**
    ```bash
    npm install express puppeteer
